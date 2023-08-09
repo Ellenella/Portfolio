@@ -3,33 +3,33 @@ export const projects = [
     title: "Eurika",
     subtitle: "Next js website",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The Next.js and TypeScript-powered web application designed for NGOs. Streamline donation management, volunteer coordination, event planning, project tracking, and document storage. Benefit from secure user authentication, role-based access control, and intuitive interfaces. Enhance collaboration, generate reports, and analyze data for informed decision-making. Experience efficient NGO operations with Eurika.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://www.eurika.ngo/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Trello clone with chatgpt",
+    subtitle: "React Typescript and chatgpt",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Introducing our Trello Clone ChatGPT project developed with React.js, TypeScript, and ChatGPT 3.5. Experience the power of seamless task management and AI-driven task summarization capabilities. Organize and prioritize tasks with lists, and cards. Boost productivity, streamline workflows, and empower teams with our ChatGPT-Trello-inspired project, enhanced by the capabilities of ChatGPT 3.5.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Ellenella/Trello-clone-chatgpt",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Personal Financial Advisory System Through NLP On going",
+    subtitle: "Python and Chatgpt",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Personal Financial Advisory System powered by NLP. Led by our dedicated local chapter, we aim to revolutionize financial management. Our system leverages advanced NLP techniques to provide personalized financial advice, budgeting tips, and investment recommendations. Empowering individuals to make informed decisions, our project combines technology and finance to enhance financial well-being. ",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://omdena.com/chapter-challenges/creating-a-personal-financial-advisory-system/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Sentimen Analysis on Movie",
+    subtitle: "Python and Tensorflow",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Sentiment analysis project focusing on movie reviews. Utilizing state-of-the-art techniques, we delve into the realm of NLP to uncover the sentiments expressed in movie reviews. Through advanced machine learning algorithms, we dissect the texts, extracting valuable insights and sentiment polarity. Gain a deeper understanding of audience reactions, evaluate movie reception.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Ellenella/deploying-sentiment-udacity",
   },
 ];
 
@@ -51,11 +51,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
   "Next.js",
   "Python",
+  "Numpy",
+  "EDA",
+  "ChatGPT Integration",
   "Django",
   "Tensorflow",
-  "Scrapy"
+  "Scrapy",
+  "Machine Learning",
 ];

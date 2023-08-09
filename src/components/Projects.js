@@ -9,12 +9,10 @@ export default function Projects() {
             <div className="flex flex-col w-full mb-20">
               <CodeIcon className="mx-auto inline-block w-10 mb-4" />
               <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-                Websites I've Built and contributed on opensource projects
+                Personal Projects
               </h1>
-              <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                fuga dolore.
+              <p className="lg:w-2/3 mx-auto leading-relaxed text-lg">
+              I have built impactful websites and contributed to open-source projects, showcasing my expertise in web development and Machine Learning. From Integrating Machine Learning Algorithms and Creating user-friendly interfaces to collaborating on innovative open-source initiatives, my work reflects a dedication to excellence and a passion for advancing technology.
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
